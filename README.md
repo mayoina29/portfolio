@@ -18,3 +18,9 @@
 >> 프로젝트 설명 : 라즈베리파이 5에서 ST7789V2 SPI LCD를 구동하기 위한 리눅스 프레임버퍼 드라이버(Linux Framebuffer Driver) <br>
 >> [프로젝트 상세 설명](https://github.com/mayoina29/rpi5-st7789_169-driver) <br>
 
+## max98357a 오디오칩 제어 프로젝트 
+
+> - 리눅스 커널 디바이스 드라이버 작성 프로젝트  <br>
+> - 개발기간 2026.01.28-2026.01.29 <br>
+>> 프로젝트 설명 : 라즈베리파이 5에서 max98357a 를 구동하기 위한 리눅스 드라이버(Linux Driver) <br>
+>> [프로젝트 상세 설명](https://github.com/mayoina29/ri5-max98357a-driver) <br>
